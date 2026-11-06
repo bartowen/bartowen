@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate Business Intelligence Analyst from Chile</h3>
 
-- 🔭 I’m currently working on [TourData](https://github.com/bartowen/Exploracion_Proyecto_Final)
+ I’m currently working on Towen
 
-- 💬 Ask me about **Python, SQL, Streamlit**
+- 📫 How to reach me felipe@towenads.com
 
-- 📫 How to reach me **felipe.browne.le@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/kqp56i549m1b](https://flowcv.com/resume/kqp56i549m1b)
-
-- ⚡ Fun fact **I play saxophone**
+- ⚡I play saxophone
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
